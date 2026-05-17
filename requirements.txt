@@ -1,0 +1,17 @@
+# Core notebook environment
+jupyterlab>=4.3,<5
+ipykernel>=6,<8
+ipython>=8,<10
+
+# Data loading and analysis
+gdown>=5.2,<6
+numpy>=1.26,<3
+pandas>=2.2,<3
+
+# Visualization
+matplotlib>=3.8,<4
+seaborn>=0.13,<1
+
+# Modeling and evaluation
+scikit-learn>=1.5,<2
+torch>=2.5,<3
